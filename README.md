@@ -25,3 +25,5 @@ python -m app.main
 
 Honest recommendation:
 Use paper first. This is safer and more selective, but still not guaranteed profitable.
+<img width="1254" height="1216" alt="image" src="https://github.com/user-attachments/assets/e3a97ccb-a046-4ba6-a791-2be716695236" />
+
