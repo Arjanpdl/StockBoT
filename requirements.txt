@@ -1,0 +1,7 @@
+alpaca-py>=0.28.1
+pandas>=2.2.2
+numpy>=1.26.4
+python-dotenv>=1.0.1
+requests>=2.32.3
+pytz>=2024.1
+prometheus-client>=0.20.0
